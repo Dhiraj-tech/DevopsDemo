@@ -1,5 +1,5 @@
 print("Student Data Transfer Application")
-students = ["Ravi", "Anu", "Kiran"]
+students = ["Ravi", "Anu", "Kiran", "priya"]
 processed_students = []
 for student in students:
     processed_students.append(student)
